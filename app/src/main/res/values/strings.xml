@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">tictactoe</string>
+
+    <string-array name="choosingPlayer">
+        <item>SecondPlayer</item>
+        <item>CPU</item>
+    </string-array>
+</resources>
